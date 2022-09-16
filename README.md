@@ -1,5 +1,3 @@
-https://www.youtube.com/watch?v=d7PaA8OqoYU
-
 ## ICRA23 xxxxx — Supplementary video material
 
 Deep Neural Network Architecture Search for Accurate Visual Pose Estimation aboard Nano-UAVs
